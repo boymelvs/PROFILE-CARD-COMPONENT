@@ -1,0 +1,5 @@
+/* breakpoint @ max-width: 480px */
+.stats {
+  flex-direction: column;
+  gap: 2.5rem;
+}
